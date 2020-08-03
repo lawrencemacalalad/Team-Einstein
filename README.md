@@ -2,16 +2,17 @@
 
 ## HackBio Intership 2020
 
-### Team Leader: Lawrance
+### Team Leader: Lawrence
 
-### Team Assistant: Not decided yet.
+### Team Assistant: Ihechi
 
 ### Team Members:
-- Lawrance
+- Lawrence
 - Maruf
 - Usmood
 - Kaici
 - David
+- Ihechi
 - Please add your name
 
 ## Team Task for Stage_0
