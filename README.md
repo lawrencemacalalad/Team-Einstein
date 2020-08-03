@@ -9,7 +9,6 @@
 
 ### Team Members:
 - Lawrence
-- Maruf
 - Usmood
 - Kaici
 - David
