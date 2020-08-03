@@ -9,7 +9,7 @@ output: html_document
 name <- "Maruf Ahmed Bhuiyan"
 email <- "dr.marufahmed89@gmail.com"
 biostack <- "Genomics"
-username <- "Maruf"
+username <- "@Maruf"
 language <- "R"
 
 cat(paste("Name:", name,"Email:", email, 
