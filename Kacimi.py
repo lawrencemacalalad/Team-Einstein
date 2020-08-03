@@ -1,5 +1,0 @@
-print("Full Name: Salah Eddine Oussama Kacimi")
-print("Email Adress: Kacimi.oussama97@yahoo.com")
-print("Language: Python")
-print("Biostack: Drug Development")
-print("Slack Username: @Kacimi")
