@@ -13,7 +13,7 @@
 - Kaici
 - David
 - Ihechi
-- Please add your name
+- Kacimi
 
 ## Team Task for Stage_0
 1. ~~Each team will create a github repo~~
