@@ -15,10 +15,10 @@ outputs in a .csv file format.
 Everyone did their best in learning new languages to pass this stage, which is STAGE 0.
 
 ### Some of the Languages used are:
--JavaScript
--Php
--python
--HTMLC
+- JavaScript
+- Php
+- python
+- HTMLC
 
 ### Team Members:
 - Lawrence
