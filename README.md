@@ -9,13 +9,14 @@
 
 ### Team Members:
 - Lawrence
-- Maruf
 - Usmood
 - Kaici
 - David
 - Ihechi
 - Kacimi
 - Deborah
+- Ayodele
+
 
 ## Team Task for Stage_0
 1. ~~Each team will create a github repo~~
