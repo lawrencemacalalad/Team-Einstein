@@ -7,6 +7,19 @@
 
 ### Team Assistant: Ihechi
 
+
+###Team Einstein is a group of diverse people. We are all eager to learn from different people to become better in our aspired fields. This is our first Team presentation where in
+we coded our personal information using different Coding Languges, then pushed into a single repository. Which should be then cloned and create bash file that would print our
+outputs in a .csv file format. 
+
+Everyone did their best in learning new languages to pass this stage, which is STAGE 0.
+
+###Some of the Languages used are:
+-JavaScript
+-Php
+-python
+-HTMLC
+
 ### Team Members:
 - Lawrence
 - Usmood
