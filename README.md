@@ -3,9 +3,9 @@
 
 ## HackBio Intership 2020
 
-### Team Leader: Lawrence
+#### Team Leader: Lawrence
 
-### Team Assistant: Ihechi
+#### Team Assistant: Ihechi
 
 
 Team Einstein is a group of diverse people. We are all eager to learn from different people to become better in our aspired fields. This is our first Team presentation where in
