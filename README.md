@@ -15,6 +15,7 @@
 - David
 - Ihechi
 - Kacimi
+- Deborah
 
 ## Team Task for Stage_0
 1. ~~Each team will create a github repo~~
