@@ -1,4 +1,3 @@
-
 name = 'Lawrence S. Macalalad'
 email = 'lawrencesevillamacalalad@gmail.com'
 language = 'Python'
