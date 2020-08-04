@@ -1,0 +1,5 @@
+print("Full Name: Adetutu Oluwasanmi")
+print("Email Adress: oluwasanmiadetutu@gmail.com")
+print("Language: Python")
+print("Biostack: Genomics")
+print("Slack Username: @Adetutu")
