@@ -31,8 +31,8 @@ Everyone did their best in learning new languages to pass this stage, which is S
 - Ayodele
 - Adetutu
 
-
-![alt text]()
+## ACTIVITY PIPELINE
+![alt text](EinsteinPipeline.png)
 
 ## Team Task for Stage_0
 1. ~~Each team will create a github repo~~
