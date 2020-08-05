@@ -35,6 +35,7 @@ please copy the code in it and kindly paste it in your terminal for you to execu
 - Deborah
 - Ayodele
 - Adetutu
+- Yakumbur
 
 ## ACTIVITY PIPELINE
 ![alt text](EinsteinPipeline.png)
