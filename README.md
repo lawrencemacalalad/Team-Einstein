@@ -32,7 +32,7 @@ Everyone did their best in learning new languages to pass this stage, which is S
 - Adetutu
 
 
-
+![alt text]()
 
 ## Team Task for Stage_0
 1. ~~Each team will create a github repo~~
