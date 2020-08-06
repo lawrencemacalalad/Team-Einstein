@@ -6,6 +6,7 @@ for file in $(ls) ;
 do
 	if [[ $file == *.R ]]; then Rscript $file >> ../TeamEinstein.csv
 	elif [[ $file == *.sh ]]; then bash $file >> ../TeamEinstein.csv
+	elif [[ $file == *.cs ]]; then CS $file >> ../TeamEinstein.csv
 	elif [[ $file == *.php ]]; then PHP $file >> ../TeamEinstein.csv
 	elif [[ $file == *.html ]]; then HTML $file >> ../TeamEinstein.csv
 	elif [[ $file == *.js ]]; then node.js $file >> ../TeamEinstein.csv
