@@ -21,6 +21,7 @@ Everyone did their best in learning new languages to pass this stage, which is S
 - HTMLC
 - R
 - Bash
+- C#
 
 #### NOTE 
 In running the bash script, please make sure that you have the proper applications that can run the said Languages above. If the bash script does not execute readily, 
