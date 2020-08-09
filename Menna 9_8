@@ -1,0 +1,10 @@
+#Name
+print("Menna Mohamed") 
+#Email
+print("menna82000@gmail.com") 
+#Programminglanguage
+print("Python") 
+#My biostack
+print("Genomics and data analytics") 
+#Myslackusername
+print("@Menna") 
