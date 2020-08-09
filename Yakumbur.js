@@ -1,1 +1,9 @@
-document.write(“Name: Yakumbur, Donald Terseer<br>E-mail: yakumbur@gmail<br>Biostack: Genomics<br>Script language: JavaScript<br>Slack username: @yakumbur”)
+#!/usr/bin/env node
+
+var name = "Yakumbur, Donald Terseer";
+var email = "yakumbur@gmail.com";
+var language_used = "javascript";
+var biostack = "Genomics";
+var slack_username = "@yakumbur";
+
+console.log(name, email, language_used, biostack, slack_username)
