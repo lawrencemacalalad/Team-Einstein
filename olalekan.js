@@ -1,0 +1,7 @@
+var name = 'Olalekan Akadiri';
+var email = 'akadirilekan8@gmail.com';
+var language = 'JavaScript';
+var biostack = 'Data analytics';
+var username  = '@olalekan';
+console.log('Name: ' + name, '| Email: ' + email, '| Programming Language: '
++ language, '| Biostack: ' + biostack, '| Slack username: ' + username
